@@ -30,7 +30,7 @@ int main(){
         else if(!secondEven)// this block only executes when num1 is odd.
             printf("The addition is: %d", num1+num2); // both are odd
         else
-            printf("Num1: Odd\nNum2: Even");
+            printf("Num1: Odd\n  Num2: Even ");
     }
     
     return 0;
